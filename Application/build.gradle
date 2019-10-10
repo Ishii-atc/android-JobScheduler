@@ -59,4 +59,11 @@ android {
 
     }
 
+	android {
+      	lintOptions {
+          	abortOnError false
+      	}
+  	}
+
+
 }
